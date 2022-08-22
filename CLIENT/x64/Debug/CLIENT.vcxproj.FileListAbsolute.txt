@@ -1,0 +1,3 @@
+C:\Users\danil\source\repos\CLIENT\x64\Debug\CLIENT.exe
+E:\Университет\WEB\практика\SUMMER_PRACTICS-main\CLIENT\x64\Debug\CLIENT.exe
+E:\Университет\WEB\практика\SUMMER_PRACTICS-main\CLIENT\x64\Debug\CLIENT.pdb
