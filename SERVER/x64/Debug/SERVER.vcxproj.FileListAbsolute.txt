@@ -1,5 +1,0 @@
-C:\Users\danil\source\repos\SERVER\x64\Debug\SERVER.exe
-E:\Университет\WEB\практика\SUMMER_PRACTICS-main\SERVER\x64\Debug\SERVER.exe
-E:\Университет\WEB\практика\SUMMER_PRACTICS-main\SERVER\x64\Debug\SERVER.pdb
-E:\Университет\WEB\практика\практика1\SERVER\x64\Debug\SERVER.exe
-E:\Университет\WEB\практика\практика1\SERVER\x64\Debug\SERVER.pdb
