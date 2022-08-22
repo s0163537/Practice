@@ -1,0 +1,3 @@
+﻿  SERVER.cpp
+E:\Университет\WEB\практика\практика1\SERVER\SERVER.cpp(98,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  SERVER.vcxproj -> E:\Университет\WEB\практика\практика1\SERVER\x64\Debug\SERVER.exe

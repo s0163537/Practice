@@ -1,0 +1,12 @@
+﻿  CLIENT.cpp
+E:\Университет\WEB\практика\практика1\CLIENT\CLIENT.cpp(93,29): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+E:\Университет\WEB\практика\практика1\CLIENT\CLIENT.cpp(119,33): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
+E:\Университет\WEB\практика\практика1\CLIENT\CLIENT.cpp(161,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Университет\WEB\практика\практика1\CLIENT\CLIENT.cpp(89,27): warning C4101: row: неиспользованная локальная переменная
+E:\Университет\WEB\практика\практика1\CLIENT\CLIENT.cpp(115,31): warning C4101: row: неиспользованная локальная переменная
+  Создание кода
+  1 of 135 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CLIENT.vcxproj -> E:\Университет\WEB\практика\практика1\CLIENT\x64\Release\CLIENT.exe
