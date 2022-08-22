@@ -1,3 +1,0 @@
-C:\Users\danil\source\repos\CLIENT\x64\Release\CLIENT.exe
-E:\Университет\WEB\практика\SUMMER_PRACTICS-main\CLIENT\x64\Release\CLIENT.exe
-E:\Университет\WEB\практика\практика1\CLIENT\x64\Release\CLIENT.exe

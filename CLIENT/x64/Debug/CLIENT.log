@@ -1,7 +1,0 @@
-﻿  CLIENT.cpp
-E:\Университет\WEB\практика\SUMMER_PRACTICS-main\CLIENT\CLIENT.cpp(87,29): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
-E:\Университет\WEB\практика\SUMMER_PRACTICS-main\CLIENT\CLIENT.cpp(113,33): warning C4244: инициализация: преобразование "uint64_t" в "int", возможна потеря данных
-E:\Университет\WEB\практика\SUMMER_PRACTICS-main\CLIENT\CLIENT.cpp(155,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-E:\Университет\WEB\практика\SUMMER_PRACTICS-main\CLIENT\CLIENT.cpp(83,27): warning C4101: row: неиспользованная локальная переменная
-E:\Университет\WEB\практика\SUMMER_PRACTICS-main\CLIENT\CLIENT.cpp(109,31): warning C4101: row: неиспользованная локальная переменная
-  CLIENT.vcxproj -> E:\Университет\WEB\практика\SUMMER_PRACTICS-main\CLIENT\x64\Debug\CLIENT.exe
